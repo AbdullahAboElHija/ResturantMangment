@@ -12,4 +12,3 @@ GetPrice: Quickly obtain the prices of menu items for billing and invoicing.<br>
 MakeOrder: Streamline the order creation and processing workflow.<br>
 Feel free to explore the code, suggest improvements, or contribute to make this system even better. Your feedback and contributions are highly appreciated!"<br>
 <br>
-This updated description highlights the specific features of your code, making it more informative and enticing for potential users or contributors on GitHub.<br>
